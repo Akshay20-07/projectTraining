@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="sports">
+		<title lang="en">Something TOday</title>
+		<author>xyzaks</author>
+		<year>2017</year>
+		<price>37.00</price>
+	</book>	
+	<book category="fashion">
+		<title lang="en">weekly update</title>
+		<author>ramzy</author>
+		<year>2017</year>
+		<price>55.00</price>
+	</book>	
+</bookstore>	

@@ -1,0 +1,14 @@
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile readProperty
+WARNING: info.properties (The system cannot find the file specified)
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile readProperty
+INFO: readProperty  compiled
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile readProperty
+WARNING: info.properties (The system cannot find the file specified)
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile readProperty
+INFO: readProperty  compiled
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile copyProperty
+FINE: []
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile copyProperty
+INFO: Information copied Successfully
+Jan 17, 2018 4:40:21 PM com.ericsson.training.problem01.PropertyFile copyProperty
+INFO: CopyProperty compiled

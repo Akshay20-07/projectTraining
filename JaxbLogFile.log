@@ -1,0 +1,12 @@
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample createJAXB
+INFO: jaxb.xml got marshalled
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample createJAXB
+INFO: jaxbcopy.xml got marshalled
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample readJAXB
+INFO: Details of employee
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample readJAXB
+INFO: 17.0Mr abcSDU
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample readJAXB
+INFO: 28.0Mr xyzSDU
+Jan 15, 2018 1:09:00 PM com.ericsson.training.problem02.JaxbExample readJAXB
+INFO: 39.0Mr redECE

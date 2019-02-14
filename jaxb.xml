@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <Company empId="1">
+        <empDeptt>SDU</empDeptt>
+        <workHrs>7.0</workHrs>
+        <empName>Mr abc</empName>
+    </Company>
+    <Company empId="2">
+        <empDeptt>SDU</empDeptt>
+        <workHrs>8.0</workHrs>
+        <empName>Mr xyz</empName>
+    </Company>
+    <Company empId="3">
+        <empDeptt>ECE</empDeptt>
+        <workHrs>9.0</workHrs>
+        <empName>Mr red</empName>
+    </Company>
+</employee>
